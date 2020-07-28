@@ -7,7 +7,7 @@ end
 
 def list_dwarves(array)
   index = 1 
-  array.each_with_index do 
+  array.each_with_index[index] { |
     pu name
   # Use `each_with_index` to enumerate over the provided array
   #
